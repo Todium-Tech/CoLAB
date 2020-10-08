@@ -1,3 +1,0 @@
-# CoLAB
-
-CoLAB Python
